@@ -19,7 +19,7 @@ if __name__ == "__main__":
     isMin = True
 
     #-----Enter your accuracy here-----
-    accuracy = 0.001
+    accuracy = 0.01
 
     # lower bound
     a = 0
